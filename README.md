@@ -6,7 +6,7 @@ Much to my surprise, I learnt through [the "Digraphs and trigraphs" wikipedia pa
 
 So I tried it out on my machine with GCC (11.2.1) and clang (12.0.1), and it turns out they are supported, although not allowed by default. On both compilers I had to use a `-trigraph` flag to enable them (see the [Makefile](Makefile)).
 
-Either way, I am committing the code to ensure I don't forget about this ancient and cursed knowledge... I could come in hand someday :wink:
+Either way, I am committing the code to ensure I don't forget about this ancient and cursed knowledge... It could come in hand someday :wink:
 
 ### METADATA
 
